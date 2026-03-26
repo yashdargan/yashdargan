@@ -1,22 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working on Front End Projects<br>👯 I’m looking to collaborate with developers <br>🌱 I’m currently learning React JS and many other new lang 
+# 👋 Hi, I'm Yash Raj Dargan
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yashraj.dargan?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-raj-dargan-03b173221) 
-
-# 💻 Tech Stack: 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashdargan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashdargan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdargan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashdargan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+🚀 AI Engineer | Machine Learning Systems | GenAI | MLOps  
+I build production-grade AI systems that turn messy data into intelligent, scalable solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashdargan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 About Me
+- 🔭 Currently building **LLM-powered systems, RAG pipelines, and ML platforms**
+- 🧩 Working on **end-to-end ML systems (data → model → deployment → monitoring)**
+- ☁️ Hands-on with **GCP (Vertex AI), AWS, and scalable cloud architectures**
+- 📊 Strong focus on **data science, analytics, and real-world impact**
+- ⚡ Obsessed with **turning prototypes into production systems**
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming & Core
+Python • SQL • Data Structures & Algorithms • OOP
+
+## 🤖 Machine Learning & AI
+Scikit-learn • PyTorch • TensorFlow • NLP • Embeddings • Transformers  
+Model Evaluation • Feature Engineering • Predictive Modeling
+
+## 🧬 Generative AI
+RAG Pipelines • LangChain • LLM Applications • Vector Databases  
+Prompt Engineering • Agentic Workflows
+
+## ☁️ MLOps & Cloud
+GCP (Vertex AI) • AWS • Docker • Kubernetes  
+CI/CD for ML • Model Deployment • Model Monitoring
+
+## 📊 Data Science & Analytics
+Pandas • NumPy • Statistical Analysis • A/B Testing  
+Data Cleaning • Data Validation • EDA • Large Dataset Processing
+
+## ⚙️ APIs & Systems
+FastAPI • Flask • REST APIs • Microservices Architecture
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Talent Shift Analytics
+- Built ML models to analyze **50K+ employee datasets**
+- Predicted workforce transitions and reduced attrition risk by **15%**
+- Combined **NLP + structured data modeling**
+
+---
+
+### 🔹 Peer Selection Engine
+- Designed **embedding-based recommendation system**
+- Improved matching accuracy by **30%**
+- Real-time inference pipeline using PyTorch
+
+---
+
+### 🔹 Ownership Analysis System
+- Automated financial analytics pipelines using **Python + SQL**
+- Reduced manual workload by **80%**
+- Built APIs and reporting systems for decision-making
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=yashdargan&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashdargan&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdargan&layout=compact&theme=dark)
+
+---
+
+# 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-raj-dargan
+- 📧 Email: yashrajdargan@gmail.com
+
+---
+
+⚡ *I don't just train models — I ship systems.*
